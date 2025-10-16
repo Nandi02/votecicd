@@ -102,3 +102,6 @@ Hybrid Scaling: VMSS complements Kubernetes for non-container workloads or hybri
 Declarative Infrastructure: Everything — from pipeline to deployment — defined as YAML-as-code.
 
 Rollback Simplicity: Reverting Git commits = automatic rollback in deployment.
+
+
+Knowledge Source : https://youtu.be/HyTIsLZWkZg?si=DysBLqfNhtiNW-zg
